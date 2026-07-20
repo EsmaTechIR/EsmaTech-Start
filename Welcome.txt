@@ -1,0 +1,7 @@
+Welcome to my first GitHub repository.
+
+Owner: EsmaTechIR
+
+This repository is created for learning GitHub step by step.
+
+Thank you for visiting.
